@@ -1,0 +1,68 @@
+﻿<Properties StartupConfiguration="{9922739A-4EC3-0244-3E11-EF7C21FEBBBA}|">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/denis/Unity/XYZ Game jam 2024/Assets/Scripts/DeathManager.cs" relfile="Assets/Scripts/DeathManager.cs" line="52" column="1" />
+      <Breakpoint file="/Users/denis/Unity/XYZ Game jam 2024/Assets/Scripts/FindTarget.cs" relfile="Assets/Scripts/FindTarget.cs" line="28" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e0dbe5d1-b718-4496-85c2-d132e8b3f73b" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Input/InputManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Input/InputState.cs" />
+      <File FileName="Assets/Scripts/Input/InputManager.cs" Line="12" Column="6" />
+      <File FileName="Assets/Scripts/Sounds/PlayerSounds.cs" />
+      <File FileName="Assets/Scripts/Behaviour/Walk.cs" />
+      <File FileName="Assets/Scripts/Behaviour/AbstractBehaviour.cs" />
+      <File FileName="Assets/Scripts/Collision/CollisionState.cs" />
+      <File FileName="Library/PackageCache/com.unity.textmeshpro@3.0.6/Scripts/Runtime/MaterialReferenceManager.cs" />
+      <File FileName="Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextEventHandler.cs" />
+      <File FileName="Assets/Scripts/Behaviour/FaceDirection.cs" />
+      <File FileName="Assets/Scripts/Behaviour/Jump.cs" />
+      <File FileName="Assets/Scripts/Behaviour/LongJump.cs" />
+      <File FileName="Assets/Scripts/MenuManager/PauseMenu.cs" />
+      <File FileName="Assets/Scripts/MenuManager/MainMenu.cs" />
+      <File FileName="Assets/Scripts/MenuManager/WinMenu.cs" />
+      <File FileName="Assets/Scripts/EnemyBehaviour/Persecution.cs" />
+      <File FileName="Assets/Scripts/Sounds/AudioController.cs" />
+      <File FileName="Assets/TextMesh Pro/Examples &amp; Extras/Scripts/CameraController.cs" />
+      <File FileName="Assets/Scripts/Behaviour/Death.cs" />
+      <File FileName="Assets/Scripts/DeathManager.cs" />
+      <File FileName="Assets/Scripts/MenuManager/DeathMenu.cs" />
+      <File FileName="Assets/Scripts/WinPoint.cs" />
+      <File FileName="Assets/Scripts/MenuManager/LevelSelector.cs" />
+      <File FileName="Assets/NavMeshComponents/Scripts/CollectTilemapSourcesCache2d.cs" />
+      <File FileName="Assets/Scripts/Sounds/ButtonFx.cs" />
+      <File FileName="Assets/Scripts/Timer.cs" />
+      <File FileName="Assets/Scripts/AnimManagers/PlayerManager.cs" />
+      <File FileName="Assets/Scripts/Swipe.cs" />
+      <File FileName="Assets/Scripts/Behaviour/IsGost.cs" />
+      <File FileName="Assets/Scripts/Particals/DeathPartical.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XYZ Game jam 2024" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="NavMeshComponents" expanded="True" />
+              <Node name="Scripts" expanded="True">
+                <Node name="AnimManagers" expanded="True" />
+                <Node name="Behaviour" expanded="True" />
+                <Node name="Collision" expanded="True" />
+                <Node name="EnemyBehaviour" expanded="True" />
+                <Node name="Input" expanded="True">
+                  <Node name="InputManager.cs" selected="True" />
+                </Node>
+                <Node name="MenuManager" expanded="True" />
+                <Node name="Particals" expanded="True" />
+                <Node name="Sounds" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
